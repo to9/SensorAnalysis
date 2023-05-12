@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<update version="1.0">
+	<win>
+		<version>1.0.0.2</version>
+		<note>update title.</note>
+	</win>
+	<linux>
+		<version>1.0.0.3</version>
+		<note>update open file function.</note>
+	</linux>
+	<bin>SensorAnalysis</bin>
+	<url>http://www.lnsign.com/images/upload/tools/SensorAnalysis/</url>
+</update>
